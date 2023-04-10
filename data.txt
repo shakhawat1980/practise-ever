@@ -1,2 +1,2 @@
 version java
-2
+3
